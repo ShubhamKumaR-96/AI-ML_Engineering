@@ -1,22 +1,13 @@
-# Secrets
 .env
-*.key
-auth.json
 
-# Virtual environments
-.venv/
-venv/
-env/
-
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-dist/
-build/
-
-# IDE / OS
-.vscode/
-.idea/
 .DS_Store
-Thumbs.db
+.idea
+.vscode
+.venv
+
+
+__pycache__/
+build/
+dist/
+wheels/
+*.py[oc]
